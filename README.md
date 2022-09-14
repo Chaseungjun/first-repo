@@ -1,6 +1,6 @@
 # first-repo
 
-This repo is to practice git
+Thiis repo is to practice git
 
 ## Index
 - Installation
@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 
 ## How to start
 ```shell
-$ python main.py
+$ python server.py
 ```
 
 ## Features
